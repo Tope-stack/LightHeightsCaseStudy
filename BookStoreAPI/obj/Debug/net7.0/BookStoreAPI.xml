@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookStoreAPI</name>
+    </assembly>
+    <members>
+        <member name="M:BookStoreAPI.BackgroundServices.RabbitMQProducer.SendMessage``1(``0)">
+            <summary>
+            Implementation of send message method
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="message"></param>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.BookStoreController.Get">
+            <summary>
+            Get all available books in store
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.BookStoreController.Get(System.Int32)">
+            <summary>
+            Get a book by it's id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.BookStoreController.CreateBook(BookStoreAPI.Entities.DTOs.BookStoreDTO)">
+            <summary>
+            Create and add a book to the store
+            </summary>
+            <param name="bookStoreDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.BookStoreController.DeleteBook(System.Int32)">
+            <summary>
+            Remove a book from the store 
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.OrderController.Get(System.Int32)">
+            <summary>
+            Get the order status
+            </summary>
+            <param name="orderId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BookStoreAPI.Controllers.OrderController.CreateOrder(BookStoreAPI.Entities.DTOs.OrderDTO)">
+            <summary>
+            Create/Place a new order
+            </summary>
+            <param name="order"></param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentNullException"></exception>
+        </member>
+        <member name="T:BookStoreAPI.Migrations.InitialDbMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:BookStoreAPI.Migrations.InitialDbMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:BookStoreAPI.Migrations.InitialDbMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:BookStoreAPI.Migrations.InitialDbMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

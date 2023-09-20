@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\bin\Debug\net7.0\BookStoreSubscriberApp.exe
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\bin\Debug\net7.0\BookStoreSubscriberApp.deps.json
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\bin\Debug\net7.0\BookStoreSubscriberApp.runtimeconfig.json
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\bin\Debug\net7.0\BookStoreSubscriberApp.dll
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\bin\Debug\net7.0\BookStoreSubscriberApp.pdb
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\obj\Debug\net7.0\BookStoreSubscriberApp.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\obj\Debug\net7.0\BookStoreSubscriberApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\obj\Debug\net7.0\BookStoreSubscriberApp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\obj\Debug\net7.0\BookStoreSubscriberApp.AssemblyInfo.cs
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\obj\Debug\net7.0\BookStoreSubscriberApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\obj\Debug\net7.0\BookStoreSubscriberApp.csproj.CopyComplete
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\obj\Debug\net7.0\BookStoreSubscriberApp.dll
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\obj\Debug\net7.0\refint\BookStoreSubscriberApp.dll
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\obj\Debug\net7.0\BookStoreSubscriberApp.pdb
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\obj\Debug\net7.0\BookStoreSubscriberApp.genruntimeconfig.cache
+C:\Users\USER\Desktop\.NETProjects\CQRSOnionPattern\LightsOnHeights\LightHeights\BookStoreSubscriberApp\obj\Debug\net7.0\ref\BookStoreSubscriberApp.dll
